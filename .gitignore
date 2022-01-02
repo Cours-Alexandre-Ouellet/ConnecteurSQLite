@@ -123,6 +123,7 @@ fabric.properties
 
 # Package Files #
 *.jar
+!releases/**/*.jar
 *.war
 *.nar
 *.ear
