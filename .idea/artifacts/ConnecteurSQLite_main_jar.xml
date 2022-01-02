@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ConnecteurSQLite.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ConnecteurSQLite_main_jar</output-path>
+    <root id="archive" name="ConnecteurSQLite.main.jar">
+      <element id="module-output" name="ConnecteurSQLite.main" />
+    </root>
+  </artifact>
+</component>
